@@ -1,0 +1,4 @@
+环境：笔记本电脑、Debian9.6.0、带桌面
+  install gcc,make,dkms
+  service lightdm stop
+  开始安装...
