@@ -2,4 +2,3 @@
   install gcc,make,dkms
   service lightdm stop
   开始安装...
-https://back-1255568224.cos.ap-beijing.myqcloud.com/sq.AppImage?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDlRuBMMEk9PTNA1hlV3PZXKwLZtkULa0Q%26q-sign-time%3D1547620653%3B1547621553%26q-key-time%3D1547620653%3B1547621553%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D08f800e32987ec6f0966cd8a8b9555a5f8b746bc
